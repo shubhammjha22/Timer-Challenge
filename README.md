@@ -32,6 +32,4 @@ Check out the live demo of the Timer Challenge app (https://timer-challenge-eta.
 
 
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
